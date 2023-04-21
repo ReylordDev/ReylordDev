@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReylordDev
+- 👋 Hi, I’m Luis.
 - Computer Science student at Bielefeld University.
 - Learning to code from the ground up.
 
