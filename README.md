@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Luis.
-- Computer Science student at Bielefeld University.
-- Learning to code from the ground up.
+👋 Hi, I’m Luis.
 
 <!---
 ReylordDev/ReylordDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
